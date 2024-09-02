@@ -1,0 +1,46 @@
+* {
+  /* font-family: "Poppins", sans-serif;
+   */
+  font-family: 'Jost', sans-serif;
+}
+
+.background-jumbotron {
+  background-image: url("../img/bg/bg-22.jpg");
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-shadow: #000 1px 1px;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+}
+
+.judul {
+  margin-top: 15rem;
+}
+
+.btn-danger {
+  background-color: #f15942;
+  border-color: #f15942;
+  color: #ffffff;
+
+}
+
+.btn-danger:hover {
+  background-color: dangg;
+  color: #ffffff;
+
+}
+
+.team img {
+  border: 5px solid #f08373;
+}
+
+.bg-about {
+  color: #f08373;
+}
+
+footer p .footer {
+  padding-bottom: 5rem;
+}
